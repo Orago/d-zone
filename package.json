@@ -1,5 +1,5 @@
 {
-  "name": "Mittz Zone",
+  "name": "Mittz-Zone",
   "version": "0.1.67",
   "description": "An ambient life simulation driven by the user activity within a Discord server",
   "main": "index.js",
