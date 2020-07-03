@@ -130,11 +130,11 @@ function initWebsocket() {
                     text: packageInfo.description, top: 20, left: 2, maxWidth: 196, parent: game.helpPanel
                 });
                 game.ui.addLabel({
-                    text: ':icon-npm: View on npm', hyperlink: 'https://www.npmjs.com/package/d-zone',
+                    text: ':icon-npm: Developer Homepage', hyperlink: 'https://mittens.glitch.me',
                     top: 50, left: 8, parent: game.helpPanel
                 });
                 game.ui.addLabel({
-                    text: ':icon-github: View on GitHub', hyperlink: 'https://github.com/vegeta897/d-zone',
+                    text: ':icon-github: View on GitHub', hyperlink: 'https://github.com/Orago/mittz-zone',
                     top: 50, right: 8, parent: game.helpPanel
                 });
             }});
