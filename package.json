@@ -1,20 +1,21 @@
 {
-	"name": "d-zone",
+	"name": "Mittz Zone",
 	"version": "0.2.0",
 	"description": "An ambient life simulation driven by the user activity within a Discord server",
-	"author": "Devin Spikowski",
+	"author": "Mittenz Team",
 	"contributors": [
+		"Orago Dev <oragomosh@gmail.com> (https://mittens.glitch.me)",
 		"Devin Spikowski <vegeta897@gmail.com> (https://pixelatomy.com)",
 		"Sagnik Pradhan <markten6321@gmail.com> (https://sagnikpradhan.github.io)"
 	],
 	"license": "ISC",
-	"homepage": "https://github.com/vegeta897/d-zone#readme",
+	"homepage": "https://mittz-dev.herokuapp.com/?s=M",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/vegeta897/d-zone.git"
+		"url": "git+https://github.com/Orago/mittz-zone.git"
 	},
 	"bugs": {
-		"url": "https://github.com/vegeta897/d-zone/issues"
+		"url": "https://github.com/Orago/mittz-zone/issues"
 	},
 	"private": true,
 	"workspaces": [
